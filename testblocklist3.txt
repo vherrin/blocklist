@@ -4,3 +4,5 @@ ads-v-darwin.hulustream.com
 cws-hulu.conviva.com 
 doppler.hulu.com 
 vortex.hulu.com
+mask.icloud.com
+mask-h2.icloud.com
