@@ -6,3 +6,4 @@ doppler.hulu.com
 vortex.hulu.com
 mask.icloud.com
 mask-h2.icloud.com
+||*.directory^$denyallow=2fa.directory|fedi.directory|passkeys.directory|reactnative.directory|cursor.directory
